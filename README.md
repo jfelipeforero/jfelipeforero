@@ -6,7 +6,7 @@
 <!--Introduction -->
 I'm a **Tech Fellow** at [Velez Reyes+](https://velezreyesmas.com/en/fellows/)
 
-- 📚 I’m currently functional programming with Clojure
+- 📚 I’m currently learning functional programming with Clojure
 - 🐝 I have worked on several side projects using technologies such as Python, Go, Clojure ,and Typescript
 - 🌱 I'm looking to get more familiar with AWS technologies
 
