@@ -1,7 +1,7 @@
 <!-- Greeting -->
 # Greetings, I'm Felipe! :wave:
 
-[![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jfelipeforero/)
+[![Linkedin](https://img.shields.io/badge/-jfelipeforero-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jfelipeforero/)
 
 <!--Introduction -->
 I'm a **Tech Fellow** at [Velez Reyes+](https://velezreyesmas.com/en/fellows/)
