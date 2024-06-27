@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-jfelipeforero-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jfelipeforero/)
 
 <!--Introduction -->
-I'm a Software Engineer and currently a **Tech Fellow** at [Velez Reyes+](https://velezreyesmas.com/en/fellows/)
+I'm a Software Engineer Intern currently working for Snappr
 
 - 🐝 I have worked on several side projects using technologies such as Python, Go ,and Typescript
 - 📚 I’m currently learning functional programming with Clojure
